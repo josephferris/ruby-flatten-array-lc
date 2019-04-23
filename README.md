@@ -1,3 +1,5 @@
+# Ruby: Flatten Arrays
+
 ```ruby
 #
 #  1. Create a function to flatten the below array by one dimension
